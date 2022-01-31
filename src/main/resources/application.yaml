@@ -1,0 +1,7 @@
+integration:
+  inventory:
+    url: http://localhost:8083
+
+logging:
+  level:
+    com.netcracker.eso.manager: INFO
